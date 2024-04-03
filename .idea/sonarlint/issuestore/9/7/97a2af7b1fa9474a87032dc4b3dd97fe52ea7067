@@ -1,0 +1,17 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "message" 4 times.(•‘â‚şÿÿÿÿ8®·¦øŞ1
+d
+java:S1192"GDefine a constant instead of duplicating this literal "status" 4 times.(“şé8®·¦øŞ1
+h
+java:S2789'"FEnsure this "Optional" could never be null and remove this null-check.(¤¦ß‘üÿÿÿÿ8¯·¦øŞ1
+e
+java:S3655*"HCall "user.isPresent()" or "!user.isEmpty()" before accessing the value.(˜°8¤ÕÁ©à1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ã·¦øŞ1
+_
+java:S1854"BRemove this useless assignment to local variable "registeredUser".(˜¸È8Æ·¦øŞ1
+]
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ÆÙ—×8Æ·¦øŞ1
+P
+java:S1481"3Remove this unused "registeredUser" local variable.(˜¸È8È·¦øŞ1
